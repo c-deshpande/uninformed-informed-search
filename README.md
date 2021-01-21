@@ -30,6 +30,10 @@ Berlin 200
 Bremen 200
 ```
 
+An image representation of an example input is as follows,
+
+<img src="https://github.com/c-deshpande/uninformed-informed-search/blob/main/img/example_input.PNG">
+
 The program will take the following command line arguments,
 
 ```
